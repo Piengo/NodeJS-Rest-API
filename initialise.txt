@@ -1,0 +1,3 @@
+install express, nodemon, mongoose, dotenv(hide secret variables), @hapi/joi (for model validation), jsonwebtoken, 
+express-jwt-blacklist
+change scripts in package.json
